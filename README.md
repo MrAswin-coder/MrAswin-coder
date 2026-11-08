@@ -30,9 +30,11 @@
 
 ## 📊 GitHub Stats
 
-![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAswin-coder&show_icons=true&theme=default)
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAswin-coder
+&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAswin-coder&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAswin-coder
+&layout=compact)
 
 ---
 
