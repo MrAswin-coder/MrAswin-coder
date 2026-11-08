@@ -36,6 +36,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAswin-coder
 &layout=compact)
 
+## 📊 GitHub Streeks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrAswin-coder&theme=sakura-x)](https://git.io/streak-stats)
+
 ---
 
 ## 🤝 Connect With Me
